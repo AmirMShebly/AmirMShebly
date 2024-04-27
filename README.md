@@ -10,8 +10,9 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)
 
 ## GitHub Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AmirMShebly&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirMShebly&count_private=true&show_icons=true)](https://github.com/AmirMShebly/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirMShebly&count_private=true&title_color=FF8C00&text_color=c9cacc&icon_color=FF8C00&bg_color=000000"&show_icons=true)](https://github.com/AmirMShebly/github-readme-stats)
 
 ## Connect with Me
 
