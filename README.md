@@ -25,15 +25,13 @@ Below, you'll discover the programming languages and tools that I'm proficient i
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmirMShebly&show_icons=true&theme=radical)
 
-![Github Contribution Snake Animation](https://github.com/AmirMShebly/AmirMShebly/blob/output/github-contribution-grid-snake.svg)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirMShebly&layout=compact&theme=radial)
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=AmirMShebly&theme=radical)
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![Joke](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Joke](https://readme-jokes.vercel.app/api)
 
 
 
