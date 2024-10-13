@@ -40,4 +40,3 @@ Below, you'll discover the programming languages and tools that I'm proficient i
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/amirreza-m-shebly-b6b193293/)](https://www.linkedin.com/in/amirreza-m-shebly-b6b193293/)
 
 E-mail: amirrizashibly1382@gmail.com
-![](generated_map_6.png)
