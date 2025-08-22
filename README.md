@@ -20,6 +20,9 @@ Below, you'll discover the programming languages and tools that I'm proficient i
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=flat&logo=matplotlib&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-DE0000?style=flat&logo=jax&logoColor=white)
 
 ## Github Stats
 
