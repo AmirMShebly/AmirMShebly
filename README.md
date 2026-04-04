@@ -1,10 +1,3 @@
-# Hi there, I'm Amirreza M. Shebly! 👋
-
-Greetings! I'm an enthusiastic and passionate Bachelor's student in Computer Engineering with a deep fascination for Machine Learning and a strong drive for research. My passion lies in delving into the depths of emerging technologies, tackling intricate problems, examining novel ideas, and continuously expanding my skill set.
-
-Below, you'll discover the programming languages and tools that I'm proficient in, along with various channels to connect with me. I'm eager to collaborate and engage in research projects.
-
-
 ## Languages and Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -24,15 +17,7 @@ Below, you'll discover the programming languages and tools that I'm proficient i
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![JAX](https://img.shields.io/badge/JAX-DE0000?style=flat&logo=jax&logoColor=white)
 
-## Github Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmirMShebly&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirMShebly&layout=compact&theme=radial)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=AmirMShebly&theme=radical)
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ![Joke](https://readme-jokes.vercel.app/api)
 
@@ -42,4 +27,4 @@ Below, you'll discover the programming languages and tools that I'm proficient i
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/amirreza-m-shebly-b6b193293/)](https://www.linkedin.com/in/amirreza-m-shebly-b6b193293/)
 
-E-mail: amirrizashibly1382@gmail.com
+E-mail: amirreza@bilkent.edu.tr
